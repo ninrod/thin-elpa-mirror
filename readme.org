@@ -1,0 +1,2 @@
+* thin-elpa-mirror
+  - this is my thin elpa mirror
